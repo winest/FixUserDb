@@ -6,13 +6,13 @@ PEID or exeinfo PE use a public signature format and save them
 in a plaintext file "userdb.txt".
 However, there are lots of invalid entries inside after being
 modified by researchers or public users years after years. So
-I write this utility to help you remove those invalid entries.
+I write this utility to help you to remove those invalid entries.
 
 
 
 ###Main features:
 - Remove entry that already has the same signature and section name previously.
-- Remove entry that has invalid signature that is neither hex or ? format.
+- Remove entry that has invalid signature which is neither hex nor ? format.
 
 
 
