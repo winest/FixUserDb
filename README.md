@@ -3,7 +3,7 @@
 When analyzing files, one of the information we need to know
 at first is it's compiler or packer signature. Some tools like
 PEID or exeinfo PE use a public signature format and save them
-in a plaintext file "userdb.txt".
+in a plaintext file "userdb.txt".<br />
 However, there are lots of invalid entries inside after being
 modified by researchers or public users years after years. So
 I write this utility to help you to remove those invalid entries.
